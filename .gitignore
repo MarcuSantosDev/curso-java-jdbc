@@ -1,0 +1,28 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+/shelf/
+/workspace.xml
+/httpRequests/
+/queries/
+/dataSources/
+/dataSources.local.xml
+
+# Java - arquivos compilados
+out/
+target/
+build/
+*.class
+
+# Logs
+*.log
+
+# Configurações e credenciais locais
+.env
+.env.*
+!.env.example
+db.properties
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
