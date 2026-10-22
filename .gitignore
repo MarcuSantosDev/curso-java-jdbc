@@ -17,11 +17,11 @@ build/
 # Logs
 *.log
 
-# Configurações e credenciais locais
+# Configurações locais e credenciais
+db.properties
 .env
 .env.*
 !.env.example
-db.properties
 
 # Sistema operacional
 .DS_Store
